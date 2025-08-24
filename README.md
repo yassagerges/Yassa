@@ -35,5 +35,6 @@ Skilled in building and analyzing **Intrusion Detection Systems (IDS)**, securin
 ---
 
 ## 🌍 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 📧 Email: yourname@email.com  
+- 💼[ [LinkedIn](https://linkedin.com/in/yourprofile)  ](https://www.linkedin.com/in/yassa-gerges/)
+- 📧 Email: yassagerges2030@gmail.com
+- 
