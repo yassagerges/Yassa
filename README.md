@@ -1,26 +1,40 @@
-# 👋 Hello, I'm Yassa
+# 👋 Hey, I'm Yassa  
 
-## 🛡️ Cybersecurity Analyst | SOC & Incident Response
-
-Passionate about defending digital environments with hands-on experience in **SOC operations, threat detection, and incident response**.  
-Skilled in building and analyzing **Intrusion Detection Systems (IDS)**, securing networks, and investigating security events.  
-
-🎓 **Certifications & Studies**  
-- Certified Ethical Hacker (CEH)  
-- HCIA-Security  
-- CCNA & CCNP  
-- SANS SEC504: Hacker Tools, Techniques, Exploits, and Incident Handling  
-- SANS SEC450: Blue Team Fundamentals  
+💻 **Cybersecurity Analyst | SOC | Incident Response**  
+🔒 Focused on **Threat Analysis, Network Security, and Blue Team Operations**  
 
 ---
 
-## 🚀 Technical Skills
-- **Programming & Tools:** Python, Flask, SQL, Wireshark, Splunk, Linux  
-- **Networking & Security:** IDS/IPS, Firewalls, SIEM, SOC Monitoring, Packet Analysis  
-- **Platforms & Virtualization:** VMware, Cisco Packet Tracer, GNS3  ---
+## 🛡️ Certifications
+- 🏅 **CEH** – Certified Ethical Hacker  
+- 🏅 **HCIA-Security**  
+- 🏅 **CCNA & CCNP**  
+- 📚 Studies: **SANS SEC504, SEC450**  
 
+---
 
-## 🌍 Connect with Me
-- 💼[ [LinkedIn](https://www.linkedin.com/in/yassa-gerges/)
-- 📧 Email
-- 
+## 🚀 Skills & Tools
+🔹 **Programming & Scripting**: Python, Flask, SQL  
+🔹 **Security Tools**: Wireshark, Splunk, SIEM, IDS/IPS  
+🔹 **Networking**: Cisco, Packet Tracer, GNS3  
+🔹 **Systems**: Linux, Windows Server  
+
+---
+
+## 📂 Featured Projects
+📌 [**Intrusion Detection System (IDS)**](https://github.com/Yassa/IDS-Flask) – Real-time IDS built with Flask  
+📌 [**Network Simulation Lab**](https://github.com/Yassa/Packet-Tracer-Lab) – Cisco Packet Tracer labs & configs  
+📌 [**SOC Playbook**](https://github.com/Yassa/SOC-Playbook) – Use cases & automation for SOC operations  
+
+---
+
+## 📊 GitHub Insights
+![Stats](https://github-readme-stats.vercel.app/api?username=Yassa&show_icons=true&theme=radical)  
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=Yassa&theme=radical&hide_border=true)  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yassa&layout=compact&theme=radical)  
+
+---
+
+## 🌍 Let's Connect
+🔗 [LinkedIn](https://www.linkedin.com/in/yassa-gerges/)  
+📧 yassagerges2030@email.com  
