@@ -8,7 +8,7 @@
 ---
 # 📧 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yassa-gerges/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/yassagerges/Yassa/edit/main/README.md)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/yassagerges)
 [![Email](https://img.shields.io/badge/EmailProfile-blue)](mailto:yassagerges2030@gmail.com)
 
 ## 👤 About Me
