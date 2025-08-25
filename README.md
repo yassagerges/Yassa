@@ -1,29 +1,15 @@
-<p align="center">
-  <!-- بنر SVG متحرك -->
-  <img src="banner.svg" alt="Banner" width="100%" />
 
-  <!-- تأثير الكتابة المتغيرة -->
-  <br />
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AbdulRhman+AbdulGhaffar;Cyber+Security+Specialist;Network+Engineer;IT+Technical+Support;System+Administrator" alt="Typing SVG" />
-  </a>
-</p>
 
-<!-- Profile Picture -->
-<p align="center">
-  <img src="https://i.postimg.cc/RFc0f18m/cropped-circle-image-1.png" alt="Profile Picture" width="150" style="border-radius: 50%;">
-</p>
-
-<h1 align="center">Hi 👋, I'm AbdulRhman AbdulGhaffar</h1>
+<h1 align="center">Hi 👋, I'm Yassa Gerges </h1>
 <h3 align="center">Incident Response Analyst Trainee @DEPI | SOC Tier 1 | RHCSA | CCNA | MCSA | HCIA - Cloud Service | HCIA DataCom | IT Technical Support</h3>
 
 
 
 ---
 # 📧 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/AbdulRhmanAbdulGhaffar)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/AbdulRhmanAbdulGhaffar)
-[![Email](https://img.shields.io/badge/EmailProfile-blue)](mailto:abdulrhman.abdulghaffar001@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yassa-gerges/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/yassagerges/Yassa/edit/main/README.md)
+[![Email](https://img.shields.io/badge/EmailProfile-blue)](mailto:yassagerges2030@gmail.com)
 
 ## 👤 About Me
 *SOC & Incident Response Analyst* with skills in *SIEM*, log analysis, threat intelligence, and digital forensics. Seeking to apply 
@@ -66,10 +52,12 @@ proactive cybersecurity strategies.
 - Time management
 
 ## 🎓 Education
-- *Business Information Systems, Delta University for Science and Technology* (Undergraduate)
-- *Focus on IT systems, network management, and cybersecurity*. 
+- *Arab Open University (AOU) - Shorouk Branch
+   Bachelor of Degree in Cybersecurity
+
 
 ## 🌐 Languages
 - *Arabic:* Native
 - *English:* Good
+- *Russian:* Good
 
