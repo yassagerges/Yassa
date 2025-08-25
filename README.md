@@ -52,8 +52,8 @@ proactive cybersecurity strategies.
 - Time management
 
 ## 🎓 Education
-- *Arab Open University (AOU) - Shorouk Branch
-   Bachelor of Degree in Cybersecurity
+- * Arab Open University (AOU) - Shorouk Branch
+    Bachelor of Degree in Cybersecurity
 
 
 ## 🌐 Languages
